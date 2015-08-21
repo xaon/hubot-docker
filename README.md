@@ -1,4 +1,4 @@
-# hubot-docker
+# hubot-slack-docker
 
 ## How to use
 
